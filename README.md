@@ -41,4 +41,10 @@ Le projet vise à maîtriser la **chaîne complète de traitement des données**
 
 Ce projet contient l'analyse complète et l'entraînement du modèle. 
 Vous pouvez consulter le notebook directement ici : 
-[Notebook d'Analyse (mon_notebook.ipynb)](Projet_final_Rotor_Imbalance_Detection.ipynb)
+[Notebook d'Analyse](Projet_final_Rotor_Imbalance_Detection.ipynb)
+
+## Présentation 
+
+Des informations additionnelles sont susceptible de s'y trouver
+[Présentation Powerpoint](ML_final_project.ppt)
+
