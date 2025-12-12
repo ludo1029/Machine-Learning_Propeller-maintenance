@@ -33,7 +33,7 @@ Le projet vise à maîtriser la **chaîne complète de traitement des données**
 
 ### 📄 Rapport Complet
 
-[![Aperçu du rapport](page_de_garde.png)](PPreventive_maintenance_for_propeller.pdf)
+[![Aperçu du rapport](page_de_garde.png)](Preventive_maintenance_for_propeller.pdf)
 
 > Cliquez sur l'image ci-dessus pour lire le rapport complet.
 
